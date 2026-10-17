@@ -1,7 +1,0 @@
-method_id,method_name
-M01,EGFB
-M02,LexRank
-M03,TextRank
-M04,LSA
-M05,Quasi-Supervised
-M06,Supervised
