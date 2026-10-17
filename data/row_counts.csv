@@ -1,0 +1,12 @@
+table,rows,columns
+Artist,140,2
+Album,220,3
+Track,1200,8
+TrackArtist,1547,3
+Podcast,85,4
+Episode,600,6
+Summary_Method,6,2
+Summary,3600,5
+Users,300,4
+User_Track,2387,4
+User_Episode,1797,4
